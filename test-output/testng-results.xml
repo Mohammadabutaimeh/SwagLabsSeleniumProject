@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T18:58:22 EET" name="Default suite" finished-at="2023-11-29T18:58:25 EET" duration-ms="2558">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T18:58:22 EET" name="Default test" finished-at="2023-11-29T18:58:25 EET" duration-ms="2558">
+      <class name="loginProcess.ValidLoginTestCases">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:loginProcess.ValidLoginTestCases@277f7dd3]" started-at="2023-11-29T18:58:22 EET" name="Setup" finished-at="2023-11-29T18:58:23 EET" duration-ms="1165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="loginTestUsingStandardUser()[pri:1, instance:loginProcess.ValidLoginTestCases@277f7dd3]" started-at="2023-11-29T18:58:23 EET" name="loginTestUsingStandardUser" finished-at="2023-11-29T18:58:24 EET" duration-ms="549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestUsingStandardUser -->
+        <test-method signature="PrintNamesOfTheItems()[pri:3, instance:loginProcess.ValidLoginTestCases@277f7dd3]" started-at="2023-11-29T18:58:24 EET" name="PrintNamesOfTheItems" finished-at="2023-11-29T18:58:25 EET" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintNamesOfTheItems -->
+        <test-method is-config="true" signature="PostTesting()[pri:0, instance:loginProcess.ValidLoginTestCases@277f7dd3]" started-at="2023-11-29T18:58:25 EET" name="PostTesting" finished-at="2023-11-29T18:58:25 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTesting -->
+      </class> <!-- loginProcess.ValidLoginTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
